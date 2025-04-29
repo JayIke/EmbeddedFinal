@@ -1,4 +1,5 @@
-# Embedded Systems Final Project: Arduino Sonar Object Detector with GUI
+# Embedded Systems Final Project
+Arduino SONAR Object Detector with horizontal sweep and real-time display
 ## Features
 Radar sweep: Horizontal sweep (270 degree sweep range, configurable) using a micro servo
 GUI: Relative position and distance displayed real-time on OLED display
